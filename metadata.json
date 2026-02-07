@@ -1,0 +1,5 @@
+{
+  "name": "n8n AI Orchestrator",
+  "description": "A visual dashboard and simulator for complex n8n AI automation workflows, featuring Social Media generation, Customer Support Bots, and Phone AI integration powered by Gemini.",
+  "requestFramePermissions": []
+}
